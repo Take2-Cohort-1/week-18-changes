@@ -36,6 +36,9 @@ title: API Testing
 
 - "Deploying" means running your new code live, e.g. on the internet
 - Modern teams often deploy automatically when a dev pushes to git
+
+<!-- Pushes to git or GitHub? -->
+
   - This is called **Continuous Deployment** (CD)
 
 - Before auto-deployment, _tests_ are run to ensure the code about to go live works as expected
