@@ -255,4 +255,4 @@ fd.append('name', nameInput.value);
 fetch('some url', { method: 'POST', body: fd });
 ```
 
-<!-- The pdf does not open on GitHub, but it does if I open it in VS Code -->
+<!-- The pdf does not open on GitHub, but it does if I open it in VS Code. -->
