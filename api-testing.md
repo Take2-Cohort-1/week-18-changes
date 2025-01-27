@@ -38,6 +38,7 @@ title: API Testing
 - Modern teams often deploy automatically when a dev pushes to git
 
 <!-- Pushes to git or GitHub? -->
+<!-- Redoing pull request -->
 
   - This is called **Continuous Deployment** (CD)
 
